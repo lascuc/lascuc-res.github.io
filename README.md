@@ -1,1 +1,1 @@
-responsive.github.io
+lascuc-res.github.io
